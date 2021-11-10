@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BroadCastSender</string>
+
+    <string name="custom_permission_label">Custom permission label</string>
+
+    <string name="custom_permission_description">This is a custom dangerous permission description</string>
+</resources>
